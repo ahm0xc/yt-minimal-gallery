@@ -1,0 +1,7 @@
+[data-rmiz-modal-overlay="visible"] {
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(2px);
+}
+[data-rmiz-btn-unzoom] {
+  display: none;
+}
