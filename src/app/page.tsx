@@ -1,7 +1,6 @@
 import Footer from "@/components/footer";
 import Header from "@/components/header";
 import { Zoom } from "@/components/zoom";
-import Image from "next/image";
 
 interface GalleryType {
   url: string;
