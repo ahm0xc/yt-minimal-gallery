@@ -1,6 +1,6 @@
 import Footer from "@/components/footer";
 import Header from "@/components/header";
-import { Zoom } from "@/components/zoom";
+import Zoom from "@/components/zoom";
 
 interface GalleryType {
   url: string;
